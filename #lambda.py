@@ -35,3 +35,6 @@
 
 a=lambda x:print(True) if x>18 else print(False)
 a(21)
+
+
+
