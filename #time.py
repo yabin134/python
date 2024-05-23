@@ -12,3 +12,10 @@ print(a)
 # for i in range(1,6):
 #     print(i)
 #     time.sleep(3)
+
+
+# next friday
+# quizapp with TimeoutError
+# multiple choices
+# 5 questions and 5 ans
+# score in perc
